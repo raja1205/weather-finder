@@ -1,5 +1,6 @@
 {
   "name": "weather-app2",
+  "homepage": "http://raja1205.github.io/weather-app2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
