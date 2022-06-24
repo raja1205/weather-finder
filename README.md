@@ -1,4 +1,7 @@
 # Weather Finder App made with ReactJS
-A realtime Weather application in React using the Fetch API and Geolocation as accessed through the openweathermap API. User will be able to see the information like location, temperature, humidity, etc.
+A realtime Weather application using React and openweathermap API. By entering the city name, the user can view weather related information such as location, temperature, humidity, etc.
+> 
+<a href="https://raja1205.github.io/weather-finder/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-007FFF?style=for-the-badge&logo=&logoColor=white" style="margin-bottom: 5px;" /></a>
 
-Live Demo: https://raja1205.github.io/weather-finder/
+## Screenshot
+<img src="https://github.com/raja1205/assets/blob/main/weather-finder5.png" style="margin-bottom: 5px;" />
